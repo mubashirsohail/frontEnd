@@ -76,3 +76,5 @@ p-0 for 0px, p-1 for 4px, p-2 for 8px, p-4 for 16px, p-8 for 32px, p-16 for 64px
 (or h-[300px], text-[17px], p-[18px], m-[22px], bg-[#bada55])
 ### Combine multiple utilities correctly
 <div className="flex items-center justify-between p-4 bg-white rounded-lg shadow-md">Content</div> (or text-sm font-bold text-gray-700 hover:text-blue-500, w-full max-w-sm mx-auto mt-4, grid grid-cols-3 gap-4 p-6)
+## A simple profile card using only Tailwind utilities
+<img src="Profile.JPG" alt="Profile Card Display here." width="400"/>
