@@ -80,4 +80,4 @@ p-0 for 0px, p-1 for 4px, p-2 for 8px, p-4 for 16px, p-8 for 32px, p-16 for 64px
 ```
 (or text-sm font-bold text-gray-700 hover:text-blue-500, w-full max-w-sm mx-auto mt-4, grid grid-cols-3 gap-4 p-6)
 # A Simple Profile Card
-<img src="Profile.JPG" alt="Profile Card Display here." width="400"/>
+<img src="profileCard.JPG" alt="Profile Card Display here." width="400"/>
