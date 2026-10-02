@@ -172,3 +172,5 @@ Options: place-items-start · place-items-center · place-items-end · place-ite
 place-items-* → align all items (both axes)
 place-self-* → align one item
 place-content-* → align the whole grid inside container
+# A Responsive 3-column dashboard that becomes one column on mobile.
+<img src="dashboard.JPG" alt="Dashboard"/>
