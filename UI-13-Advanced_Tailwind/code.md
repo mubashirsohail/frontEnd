@@ -62,7 +62,7 @@
 
 ---
 
-## 2. `app/layout.tsx` — Same as before (theme init script)
+## 2. `app/layout.tsx`
 
 ```tsx
 import "./globals.css";
